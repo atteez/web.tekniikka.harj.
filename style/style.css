@@ -12,13 +12,22 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-
 .container{
     text-align: center;
     margin-top: 10%;
     color: #fff;
+    background-color: grey;
+    border-radius: 50px;
+    opacity: 0.8;
+    
+
 }
 .accordion{
     margin-top: 10%;
 
+}
+
+.btn-group{
+    margin-top: 15%;
+    
 }
